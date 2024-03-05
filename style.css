@@ -23,3 +23,16 @@ body{
     border-radius: 20px;
     position: relative;
 }
+.search{
+    top: 24px;
+    right: 20px;
+    position: absolute;
+    border: 2px solid yellow;
+}
+.search input{
+    font-size: 25px;
+    border: 1px solid white;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 10px;
+}
