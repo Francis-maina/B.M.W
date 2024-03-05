@@ -96,3 +96,15 @@ body{
     border-radius: 30px;
     font-weight: bold;
 }
+.menu ul li a:hover{
+    color: #800000;
+}
+.content h2:hover{
+    text-shadow: 14px 14px 14px white;
+}
+.btn:hover{
+    background: #ffa500;
+}
+.font ul a i:hover{
+    background: #ffa500;
+}
