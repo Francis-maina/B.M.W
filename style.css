@@ -83,3 +83,16 @@ body{
     text-decoration: none;
     padding: 10px;
 }
+.button{
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+} 
+.btn{
+    border: 3px solid yellow;
+    padding: 12px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+}
